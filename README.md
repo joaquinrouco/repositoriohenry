@@ -1,1 +1,2 @@
-# repositoriohenry
+joaquin rouco 
+primer tp pa 
